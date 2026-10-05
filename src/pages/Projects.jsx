@@ -1,4 +1,4 @@
-// Projects page: three projects with an image, my role and the outcome
+// Projects page: four projects with an image, my role and the outcome
 function Projects() {
   return (
     <div className="page">
@@ -27,6 +27,13 @@ function Projects() {
           <p>A page that shows the weather for a city that the user searches.</p>
           <p><b>My role:</b> Developer (practice project)</p>
           <p><b>Outcome:</b> Learning how to get data from an API.</p>
+        </div>
+        <div className="card">
+          <img src="/images/project-4.svg" alt="Expense and budget tracker" />
+          <h3>Expense and Budget Tracker (in progress)</h3>
+          <p>A finance app where you can record income and expenses, set a monthly budget and see totals by category.</p>
+          <p><b>My role:</b> Developer (practice project, built on my accounting background)</p>
+          <p><b>Outcome:</b> Practicing React state, forms and calculating totals and balances.</p>
         </div>
       </div>
     </div>
