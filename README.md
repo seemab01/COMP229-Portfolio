@@ -20,5 +20,8 @@ Replace `public/resume.pdf` with your own resume and `public/images/profile.jpg`
 ## Deploy
 Build with `npm run build` (output in `dist`). Works on Vercel (`vercel.json`) and Netlify (`public/_redirects`).
 
+link to your portfolio site: https://seemab-portfolio-jade.vercel.app/
+GitHub repository link:https://github.com/seemab01/COMP229-Portfolio
+
 Declaration:
 I used AI tools to help me understand the concepts, organize my ideas, and improve my work.
