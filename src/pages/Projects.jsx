@@ -6,27 +6,27 @@ function Projects() {
 
       <div className="cards">
         <div className="card">
+          <img src="/images/project-1.svg" alt="Ledger and bank reconciliation" />
+          <h3>General Ledger and Bank Reconciliation</h3>
+          <p>Regular reconciliation of the general ledger, accounting transaction reports and bank statements at Sony Electronics, Pakistan (2014 - 2019).</p>
+          <p><b>My role:</b> Senior Account Executive. I matched ledger entries to bank and transaction reports, authorized payments and calculated depreciation.</p>
+          <p><b>Outcome:</b> Accurate and up to date accounts for the company's retail shops.</p>
+        </div>
+
+        <div className="card">
+          <img src="/images/project-2.svg" alt="Internal audit and financial reporting" />
+          <h3>Internal Audit and Financial Reporting</h3>
+          <p>Prepared financial statements and audited company accounts and systems at Sony Electronics, Pakistan.</p>
+          <p><b>My role:</b> I prepared profit and loss and cash flow statements, organized data for managers, ran internal audits and worked with the external auditors.</p>
+          <p><b>Outcome:</b> Clear financial reports for managers and smooth coordination with external audits.</p>
+        </div>
+
+        <div className="card">
           <img src="/images/project-3.svg" alt="Personal portfolio website" />
           <h3>Personal Portfolio Website</h3>
           <p>This website! A six page portfolio built with React, React Router and CSS.</p>
           <p><b>My role:</b> Designer and developer</p>
           <p><b>Outcome:</b> A responsive site with a working contact form, hosted online.</p>
-        </div>
-
-        <div className="card">
-          <img src="/images/project-1.svg" alt="Task manager app" />
-          <h3>Task Manager App (in progress)</h3>
-          <p>A to-do list app where you can add, finish and delete tasks.</p>
-          <p><b>My role:</b> Developer (practice project)</p>
-          <p><b>Outcome:</b> Learning React state and how to build forms.</p>
-        </div>
-
-        <div className="card">
-          <img src="/images/project-2.svg" alt="Weather app" />
-          <h3>Weather App (in progress)</h3>
-          <p>A page that shows the weather for a city that the user searches.</p>
-          <p><b>My role:</b> Developer (practice project)</p>
-          <p><b>Outcome:</b> Learning how to get data from an API.</p>
         </div>
       </div>
     </div>
