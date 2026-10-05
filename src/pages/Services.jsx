@@ -34,12 +34,6 @@ function Services() {
           <h3>General Programming</h3>
           <p>Small programs and scripts that solve everyday problems.</p>
         </div>
-
-        <div className="card">
-          <img src="/images/service-mobile.svg" alt="Mobile friendly" />
-          <h3>Mobile Friendly Sites</h3>
-          <p>Pages that look good on phones and computers.</p>
-        </div>
       </div>
     </div>
   )
