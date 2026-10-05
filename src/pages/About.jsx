@@ -5,7 +5,7 @@ function About() {
       <h1>About Me</h1>
 
       <div className="about">
-        <img src="/images/profile.svg" alt="Seemab Qureshi" className="profile-photo" />
+        <img src="/images/profile.jpg" alt="Seemab Qureshi" className="profile-photo" />
 
         <div>
           <h2>Seemab Qureshi</h2>

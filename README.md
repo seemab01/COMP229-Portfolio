@@ -10,7 +10,7 @@ npm run dev
 
 ## Editing content
 Page content (name, projects, education, services, contact info) is written directly in each file inside `src/pages`.
-Replace `public/resume.pdf` with your own resume and `public/images/profile.svg` with your photo.
+Replace `public/resume.pdf` with your own resume and `public/images/profile.jpg` with your photo.
 
 ## Structure
 - `src/components` - Navbar, Logo, Footer
