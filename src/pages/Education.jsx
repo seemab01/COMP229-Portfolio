@@ -7,12 +7,13 @@ function Education() {
       <div className="education-item">
         <h3>Software Engineering (in progress)</h3>
         <p>Centennial College</p>
-        <p>2025 - Present</p>
+        <p>2026 - Present</p>
       </div>
 
       <div className="education-item">
         <h3>Bachelor of Commerce (B.Com Hons)</h3>
         <p>Hailey College of Commerce</p>
+        <p>2019</p>
       </div>
     </div>
   )
