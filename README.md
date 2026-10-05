@@ -19,3 +19,6 @@ Replace `public/resume.pdf` with your own resume and `public/images/profile.jpg`
 
 ## Deploy
 Build with `npm run build` (output in `dist`). Works on Vercel (`vercel.json`) and Netlify (`public/_redirects`).
+
+Declaration:
+I used AI tools to help me understand the concepts, organize my ideas, and improve my work.
