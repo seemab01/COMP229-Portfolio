@@ -1,4 +1,4 @@
-// Education page: my qualifications with the year and degree
+// Education page: my qualifications with the school and degree
 function Education() {
   return (
     <div className="page">
@@ -6,20 +6,13 @@ function Education() {
 
       <div className="education-item">
         <h3>Software Engineering (in progress)</h3>
-        <p>Your College or University</p>
+        <p>Centennial College</p>
         <p>2025 - Present</p>
       </div>
 
       <div className="education-item">
-        <h3>Web Development Certificate</h3>
-        <p>Online Learning Platform</p>
-        <p>2025</p>
-      </div>
-
-      <div className="education-item">
-        <h3>High School Diploma</h3>
-        <p>Your High School</p>
-        <p>2024</p>
+        <h3>Bachelor of Commerce (B.Com Hons)</h3>
+        <p>Hailey College of Commerce</p>
       </div>
     </div>
   )
