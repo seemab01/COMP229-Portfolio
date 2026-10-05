@@ -165,3 +165,8 @@ textarea {
   padding: 15px;
   background-color: #e5e7eb;
 }
+
+.about-text {
+  flex: 1;
+  min-width: 280px;
+}

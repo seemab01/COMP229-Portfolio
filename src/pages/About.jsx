@@ -7,7 +7,7 @@ function About() {
       <div className="about">
         <img src="/images/profile.jpg" alt="Seemab Qureshi" className="profile-photo" />
 
-        <div>
+        <div className="about-text">
           <h2>Seemab Qureshi</h2>
           <h4>Software Engineering Student</h4>
           <p>

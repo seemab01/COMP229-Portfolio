@@ -6,7 +6,7 @@ function Projects() {
 
       <div className="cards">
         <div className="card">
-          <img src="/images/project-1.svg" alt="Personal portfolio website" />
+          <img src="/images/project-3.svg" alt="Personal portfolio website" />
           <h3>Personal Portfolio Website</h3>
           <p>This website! A six page portfolio built with React, React Router and CSS.</p>
           <p><b>My role:</b> Designer and developer</p>
@@ -14,7 +14,7 @@ function Projects() {
         </div>
 
         <div className="card">
-          <img src="/images/project-2.svg" alt="Task manager app" />
+          <img src="/images/project-1.svg" alt="Task manager app" />
           <h3>Task Manager App (in progress)</h3>
           <p>A to-do list app where you can add, finish and delete tasks.</p>
           <p><b>My role:</b> Developer (practice project)</p>
@@ -22,7 +22,7 @@ function Projects() {
         </div>
 
         <div className="card">
-          <img src="/images/project-3.svg" alt="Weather app" />
+          <img src="/images/project-2.svg" alt="Weather app" />
           <h3>Weather App (in progress)</h3>
           <p>A page that shows the weather for a city that the user searches.</p>
           <p><b>My role:</b> Developer (practice project)</p>
