@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Personal Word resume (public/resume.pdf is the one used by the site)
+*.docx
