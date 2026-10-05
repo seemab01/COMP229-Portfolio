@@ -18,6 +18,9 @@ img {
 
 /* ---------- Navbar ---------- */
 .navbar {
+  position: sticky; /* keeps the bar fixed at the top while scrolling */
+  top: 0;
+  z-index: 100;
   background-color: #115e59;
   display: flex;
   justify-content: space-between;
